@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/HP/Documents/Tareas/Servicios%20Web/Practica5_A180106/Autos.xsl"?>
+<autos>
+  <auto>
+    <id>1</id>
+    <marca>Nissan</marca>
+    <modelo>T-Suru</modelo>
+    <año>2015</año>
+    <precio>160,000.00</precio>
+    <stock>3</stock>
+  </auto>
+  <auto>
+    <id>2</id>
+    <marca>Nissan</marca>
+    <modelo>Tiida</modelo>
+    <año>2015</año>
+    <precio>160,000.00</precio>
+    <stock>2</stock>
+  </auto>
+  <auto>
+    <id>3</id>
+    <marca>Ford</marca>
+    <modelo>Fiesta</modelo>
+    <año>2015</año>
+    <precio>185,000.00</precio>
+    <stock>2</stock>
+  </auto>
+    <auto>
+    <id>4</id>
+    <marca>Volkswagen</marca>
+    <modelo>Gol</modelo>
+    <año>2015</año>
+    <precio>155,000.00</precio>
+    <stock>1</stock>
+  </auto>
+    <auto>
+    <id>5</id>
+    <marca>Volkswagen</marca>
+    <modelo>Jetta</modelo>
+    <año>2015</año>
+    <precio>175,000.00</precio>
+    <stock>3</stock>
+  </auto>
+</autos>
